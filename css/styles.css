@@ -100,25 +100,25 @@ hr {
 }
 
 .programming-photo {
-  width: 25%;
+  width: 20%;
   float: left;
   margin-right: 30px;
 }
 
 .frontend-photo {
-  width: 25%;
+  width: 20%;
   float: right;
   margin-right: 30px;
 }
 
 .backend-photo {
-  width: 25%;
+  width: 20%;
   float: left;
   margin-right: 30px;
 }
 
 .tools-photo {
-  width: 25%;
+  width: 20%;
   float: right;
   margin-right: 30px;
 }
